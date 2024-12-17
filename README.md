@@ -8,7 +8,7 @@
 
 # 💪Skills
 ### Platforms & Languages
-[![My Skills](https://skillicons.dev/icons?i=python,pycham,pytorcj,selenium,sklearn,anaconda)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pycham,pytorch,selenium,sklearn,anaconda)](https://skillicons.dev)
 
 
 ### Tools
