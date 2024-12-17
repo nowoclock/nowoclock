@@ -8,8 +8,11 @@
 
 # 💪Skills
 ### Platforms & Languages
-[![My Skills](https://skillicons.dev/icons?i=python,pycham,pytorch,selenium,sklearn,anaconda)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pycharm,pytorch,selenium,sklearn,anaconda,matlab)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=docker,flask)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=notion,github,figma)](https://skillicons.dev)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
